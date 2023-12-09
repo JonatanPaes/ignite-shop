@@ -53,3 +53,4 @@ npm run dev
 - [TypeScript](https://github.com/microsoft/TypeScript)
 - [Stitches](https://stitches.dev/)
 - [Keen-Slider](https://keen-slider.io/)
+- [Stripe](https://github.com/stripe/stripe-node)
