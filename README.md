@@ -3,8 +3,7 @@
 </h1>
 
 <p align="center">
- Ignite Shop é uma aplicação
-</p>
+ Ignite Shop é uma aplicação web para compras de produtos.
 
 <p align="center">
   <a href="#como-executar">ℹ️ Como Executar?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
