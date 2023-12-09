@@ -23,7 +23,7 @@ Node version 20.10.0
 Clone
 
 ```bash
-git clone 
+git clone https://github.com/JonatanPaes/ignite-shop.git
 ```
 
 Para executar o projeto
