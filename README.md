@@ -51,4 +51,5 @@ npm run dev
 # Tecnologias
 - [NextJS](https://nextjs.org/)
 - [TypeScript](https://github.com/microsoft/TypeScript)
-- [Stiches](https://stitches.dev/)
+- [Stitches](https://stitches.dev/)
+- [Keen-Slider](https://keen-slider.io/)
