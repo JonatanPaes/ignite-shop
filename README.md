@@ -51,3 +51,4 @@ npm run dev
 # Tecnologias
 - [NextJS](https://nextjs.org/)
 - [TypeScript](https://github.com/microsoft/TypeScript)
+- [Stiches](https://stitches.dev/)
