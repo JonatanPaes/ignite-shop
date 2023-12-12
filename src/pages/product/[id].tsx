@@ -9,6 +9,7 @@ import {
   ProductContainer,
   ProductDetails,
 } from '@/styles/pages/product'
+import { useRouter } from 'next/router'
 
 interface ProductProps {
   product: {
@@ -46,7 +47,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
         params: { id: 'prod_P9o2H8H5vDgunY' },
       },
     ],
-    fallback: false,
+    fallback: 'blocking',
   }
 }
 
