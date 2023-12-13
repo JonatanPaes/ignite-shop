@@ -54,3 +54,4 @@ npm run dev
 - [Stitches](https://stitches.dev/)
 - [Keen-Slider](https://keen-slider.io/)
 - [Stripe](https://github.com/stripe/stripe-node)
+- [Axios](https://axios-http.com/)
