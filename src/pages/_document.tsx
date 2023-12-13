@@ -1,6 +1,8 @@
 import { getCssText } from '@/styles'
 import { Html, Head, Main, NextScript } from 'next/document'
 
+import dada from '../../public/logo.svg'
+
 export default function Document() {
   return (
     <Html>
@@ -20,6 +22,8 @@ export default function Document() {
           id="stitches"
           dangerouslySetInnerHTML={{ __html: getCssText() }}
         />
+
+        <link rel="icon" href="/favicon.ico" />
       </Head>
       <body>
         <Main />
