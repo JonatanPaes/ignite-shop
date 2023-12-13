@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
- Ignite Shop é uma aplicação web para compras de produtos.
+ O Ignite Shop é um e-commerce web feito sob medida para desenvolvedores. Aqui, você encontra uma coleção de camisetas para devs.
 
 <p align="center">
   <a href="#como-executar">ℹ️ Como Executar?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -35,7 +35,11 @@ Instale as dependências do projeto
 
 ```bash
 npm i
+
+# Copiar o arquivo com os dados de conexão e demais variáveis ambiente
+cp .env.local.exemple .env.local
 ```
+
 
 # Web
 Para executar o projeto
@@ -45,7 +49,7 @@ npm run dev
 ```
 
 <p align="center">
-  <img alt="Demonstration web" src="./preview/" width="100%" height="100%" />
+  <img alt="Demonstration web" src="./preview/ignite-shop.gif" width="100%" height="100%" />
 </p>
 
 # Tecnologias
