@@ -1,10 +1,11 @@
 import { GetServerSideProps } from 'next'
 import Link from 'next/link'
+import Image from 'next/image'
+import Stripe from 'stripe'
+
+import { stripe } from '@/lib/stripe'
 
 import { ImageContainer, SuccessContainer } from '@/styles/pages/success'
-import { stripe } from '@/lib/stripe'
-import Stripe from 'stripe'
-import Image from 'next/image'
 
 interface SuccessProps {
   customerName: string
